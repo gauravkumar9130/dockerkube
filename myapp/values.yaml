@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: gauravkumar9130/fbweb
+  repository: gauravkumar9130/dataweb
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
